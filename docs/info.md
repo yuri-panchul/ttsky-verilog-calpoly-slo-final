@@ -9,12 +9,14 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-TODO: Explain how your project works
+It receives sound level from an INMP441 microphone, runs sound recognition,
+displays the note on a 7-segment display of a TM1638-based interface module
+and draws color patterns on a VGA screen using Tiny VGA interface module.
 
 ## How to test
 
-TODO: Explain how to use your project
+See "How it works".
 
 ## External hardware
 
-TODO: List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+See "How it works".
